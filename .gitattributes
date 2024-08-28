@@ -1,0 +1,24 @@
+# Text files
+* text=auto
+
+# Images
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.svg binary
+
+# Videos
+*.mp4 binary
+*.mov binary
+*.avi binary
+
+# Documents
+*.pdf binary
+*.docx binary
+*.xlsx binary
+
+# Archives
+*.zip binary
+*.tar.gz binary
+*.rar binary
